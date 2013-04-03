@@ -1,5 +1,5 @@
-shibboleet - MyBB XKCD/806 Compliance plugin
-============================================
+MyBB XKCD/806 Compliance plugin
+===============================
 
 This plugin will draw attention to threads that contain the word "shibboleet" so that presumably someone who knows at least two programming languages will answer it.  If you have no clue why you would want this, see the xkcd comic below.
 
